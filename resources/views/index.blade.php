@@ -47,7 +47,7 @@
         </div>
     </div>
     {{-- <noscript>You need to enable JavaScript to run this app.</noscript> --}}
-    <div id="root" class="container bgmegaman p-0">
+    <div id="root" class="">
         @yield('content')
     </div>
 
